@@ -5,4 +5,4 @@ def is_adult(age):
      return False
 
 
-print(is_adult(20))pytho
+print(is_adult(20))
