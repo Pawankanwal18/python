@@ -7,10 +7,10 @@
 #result =sqrt(9)*pi
 #print(result)
 
-from pawan import welcome, pawan
-import math
+#from pawan import welcome, pawan
+#import math
 
-print(dir(math))
-print(math.nan, type(math.nan))
-welcome()
-print(pawan)
+#print(dir(math))
+#print(math.nan, type(math.nan))
+#welcome()
+#print(pawan)
