@@ -2,6 +2,9 @@
 #class is a user defined data type
 
 class Car:
+    def __init__(self):
+        self.speed = 0
+
     def start(self):
         print("car started")
 
