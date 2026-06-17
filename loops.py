@@ -1,3 +1,4 @@
+#loops are used to repeat a block of code until a certain condition is met
 #count = 0
 #while count < 10:
  #   print("the condtion is true")
