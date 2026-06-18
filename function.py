@@ -1,3 +1,4 @@
+#function is a block of code which is used to perform a specific task and it can be reused multiple times in a program
 #def hello(name,age):
   #  print("hello " + name +" you are " + str(age)+' years old')
 
