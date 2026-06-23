@@ -1,4 +1,4 @@
-#recursion is a function that calls itself
+#recursion is a function that calls itself it is very use full
 def factorial(n):
     if (n == 0) or (n==1):
         return 1
