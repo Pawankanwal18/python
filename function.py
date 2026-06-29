@@ -33,3 +33,4 @@ def calculate(a,b):
 result1,result2=calculate(5,3)
 print("sum:",result1)
 print("difference:",result2)
+#it is also possible to return a function from another function
