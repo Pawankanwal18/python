@@ -1,3 +1,4 @@
+#decorations
 def outer_function():
     message = 'hii'
 
