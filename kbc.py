@@ -1,3 +1,4 @@
+#it is a kbc based game in python programing language
 questions =[
 
  ["which language is used to create fb?", "python","java","C++","php", "None",4
