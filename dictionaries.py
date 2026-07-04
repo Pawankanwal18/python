@@ -1,3 +1,5 @@
+#decoration is a key concept in python which is used to modify the behaviour of the function without changing the function itself.
+
 #dog={ "name": "roger", "age" :5, 'color':"brown"}
  
 #dog["name"] = "syd"
