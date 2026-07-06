@@ -1,4 +1,4 @@
-#decorations
+#decorations is used to decurate in the paython
 def outer_function():
     message = 'hii'
 
