@@ -1,4 +1,4 @@
-#list are the simple way to select the data in python  is used
+#list are the simple way to select the data is used in python
 age=input("what is your age")
 print("your age is " +age) 
 dogs=["roger", 1,"syd", True]
